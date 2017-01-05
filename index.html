@@ -3,16 +3,40 @@
 
 <head>
   <meta name="description" content="Carlin's website... still a WIP">
-  <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset='utf-8'>
   <title>Carlin Liao</title>
   <style>
+
+    /*Responsiveness!!! We Web 3.0 now!!!*/
+    @media (min-width: 768px) {
+        .boxstuff {
+          width: 760px;
+        }
+    }
+    @media (min-width: 992px) {
+      .boxstuff {
+        width: 970px;
+      }
+    }
+    @media (min-width: 1200px) {
+      .boxstuff {
+        width: 1180px;
+      }
+    }
+
+    /*Good old fashioned formatting*/
     body {
       font-family: 'Open Sans', 'Helvetica', sans-serif;
       font-size: 2em;
       color: #c4c4c4;
       background-color: #1c1c1c;
       text-align: center;
+    }
+    .boxstuff {
+      padding-left: 5px;
+      padding-right: 5px;
+      margin: auto
     }
     a {
       color: #bfbfbf;
@@ -33,14 +57,14 @@
 
 
 
+  <div class='boxstuff'>
+    <h1>Carlin Liao is currently learning how to website.</h1>
+    <p>
+      In the meantime, why not check out his <a href=https://www.linkedin.com/in/carlinliao>LinkedIn</a> or <a href=https://github.com/CarlinLiao>head back to Github?</a>
+    </p>
 
-  <h1>Carlin Liao is currently learning how to website.</h1>
-  <p>
-    In the meantime, why not check out his <a href=https://www.linkedin.com/in/carlinliao>LinkedIn</a> or <a href=https://github.com/CarlinLiao>head back to Github?</a>
-  </p>
-
-  <p id='byline'>This website made by hand without the use of themes or Bootstrap... as you can probably tell.</p>
-
+    <p id='byline'>This website made by hand without the use of themes or Bootstrap... as you can probably tell.</p>
+  </div>
 
 
 

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"62xa":function(e,t,l){"use strict";l.r(t);var n=l("q1tI"),a=l.n(n),i=(l("Wbzz"),l("Bl7J")),r=(l("tBDR"),l("vrFN"));t.default=function(){return a.a.createElement(i.a,null,a.a.createElement(r.a,{title:"Recipes"}),a.a.createElement("h1",null,"Recipes"),a.a.createElement("p",null,"Likely mostly recipes I've slightly modified from other websites."))}}}]);
+//# sourceMappingURL=component---src-pages-recipes-js-279866a3e85cc41dbcf6.js.map

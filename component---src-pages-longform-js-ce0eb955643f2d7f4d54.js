@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{cc4l:function(e,n,t){"use strict";t.r(n);var o=t("q1tI"),l=t.n(o),a=(t("Wbzz"),t("Bl7J")),r=(t("tBDR"),t("vrFN"));n.default=function(){return l.a.createElement(a.a,null,l.a.createElement(r.a,{title:"Longform"}),l.a.createElement("h1",null,"Longform"),l.a.createElement("p",null,"Sometimes I like to write longer form fiction and nonfiction."))}}}]);
+//# sourceMappingURL=component---src-pages-longform-js-ce0eb955643f2d7f4d54.js.map

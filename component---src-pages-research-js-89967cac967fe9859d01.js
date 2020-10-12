@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{LTVh:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a),r=(t("Wbzz"),t("Bl7J")),c=(t("tBDR"),t("vrFN"));n.default=function(){return i.a.createElement(r.a,null,i.a.createElement(c.a,{title:"Research"}),i.a.createElement("h1",null,"Research"),i.a.createElement("p",null,"I study autonomous intersection management (AIM) and origin-destination matrices in traffic assignment."))}}}]);
+//# sourceMappingURL=component---src-pages-research-js-89967cac967fe9859d01.js.map
